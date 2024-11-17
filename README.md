@@ -1,6 +1,6 @@
-# QMK (Quantum Mechanical Keyboard) Userspace
+# QMK Userspace
 
-All of my personal keyboard files and notes about [QMK](https://qmk.fm/).
+All of my personal keyboard files and notes about [QMK](https://qmk.fm/) (Quantum Mechanical Keyboard) firmware.
 
 ## Structure
 
@@ -46,4 +46,4 @@ I highly recommend these resources if you're new to QMK or interested in mechani
 -   Abstract feature files.
 -   Create reusable make rules.
 -   Create reusable config file.
--   Document and reorganize kbd75 keymap
+-   Document and reorganize kbd75 keymap.
