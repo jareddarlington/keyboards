@@ -47,4 +47,4 @@ I highly recommend these resources if you're new to QMK or interested in mechani
 -   Create reusable make rules.
 -   Create reusable config file.
 -   Document and reorganize kbd75 keymap.
--   Add keyboard photos and keymap visualizations to README
+-   Add keyboard photos and keymap visualizations to README.
