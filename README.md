@@ -4,22 +4,20 @@ All of my personal keyboard files and notes about [QMK](https://qmk.fm/) (Quantu
 
 ## Structure
 
-```
-.
-├── keyboards/					# Keyboard specific files
-│   └── .../keymaps/<keymap>/	# Keymap specific files
-│       ├── features/
-│       │   └── ...				# Feature code
-│       ├── keymap.c			# Keymap
-│       └── rules.mk			# Keymap make rules
-├── .clang-format
-├── .clangd
-├── .editorconfig
-├── .gitignore
-├── compile_commands.json		# See resources (4)
-├── Makefile
-└── qmk.json
-```
+    .
+    ├── keyboards/					# Keyboard specific files
+    │   └── .../keymaps/<keymap>/	# Keymap specific files
+    │       ├── features/
+    │       │   └── ...				# Feature code
+    │       ├── keymap.c			# Keymap
+    │       └── rules.mk			# Keymap make rules
+    ├── .clang-format
+    ├── .clangd
+    ├── .editorconfig
+    ├── .gitignore
+    ├── compile_commands.json		# See resources (4)
+    ├── Makefile
+    └── qmk.json
 
 \* Structure is subject to change as I become more acquainted with QMK firmware.
 
