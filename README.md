@@ -37,7 +37,7 @@ I highly recommend these resources if you're new to QMK or interested in mechani
 2.  [QMK Keycodes](https://docs.qmk.fm/keycodes) for a list of all QMK keycodes.
 3.  [Here](https://docs.qmk.fm/feature_layers#example-keycode-to-cycle-through-layers) for layer cycling.
 4.  [Here](https://docs.qmk.fm/cli_commands#qmk-generate-compilation-database) for questions about `compile_commands.json` and fixing red squiggles.
-5.  [SOCD Cleaner](https://getreuer.info/posts/keyboards/socd-cleaner) for implementing SOCD similiarly to Wooting keyboards.
+5.  [SOCD Cleaner](https://getreuer.info/posts/keyboards/socd-cleaner) for implementing SOCD similarly to Wooting keyboards.
 6.  [Pascal Getreuer](https://getreuer.info/posts/keyboards) for other interesting feature implementations.
 7.  [Monkeytype](https://monkeytype.com) for a customizable typing test.
 
