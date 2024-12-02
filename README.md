@@ -25,6 +25,8 @@ All of my personal keyboard files and notes about [QMK](https://qmk.fm/) (Quantu
 
 ## Commands
 
+\* Terminal must be in `qmk_firmware` directory to run these commands.
+
 -   `qmk new-keymap -kb <keyboard>` to create a new keymap.
 -   `qmk compile -kb <keyboard> -km <keymap>` to compile a keymap.
 -   `qmk flash -kb <keyboard> -km <keymap>` to flash your keyboard with new firmware.
@@ -40,6 +42,7 @@ I highly recommend these resources if you're new to QMK or interested in mechani
 5.  [SOCD Cleaner](https://getreuer.info/posts/keyboards/socd-cleaner) for implementing SOCD similarly to Wooting keyboards.
 6.  [Pascal Getreuer](https://getreuer.info/posts/keyboards) for other interesting feature implementations.
 7.  [Monkeytype](https://monkeytype.com) for a customizable typing test.
+8.  [QMK_Userspace](https://github.com/qmk/qmk_userspace) to create your own userspace.
 
 ## TODO
 
