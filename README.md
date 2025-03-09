@@ -44,6 +44,7 @@ I highly recommend these resources if you're new to QMK or interested in mechani
 7.  [Pascal Getreuer](https://getreuer.info/posts/keyboards) for other interesting feature implementations.
 8.  [Monkeytype](https://monkeytype.com) for a customizable typing test.
 9.  [QMK_Userspace](https://github.com/qmk/qmk_userspace) to create your own userspace.
+10.  [Keymap Visualizer](https://github.com/caksoylar/keymap-drawer) to generate visuals of your keymaps.
 
 ## TODO
 
