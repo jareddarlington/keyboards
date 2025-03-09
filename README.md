@@ -36,13 +36,14 @@ All of my personal keyboard files and notes about [QMK](https://qmk.fm/) (Quantu
 I highly recommend these resources if you're new to QMK or interested in mechanical keyboards.
 
 1.  [QMK Guide](https://docs.qmk.fm/newbs) for the very basics.
-2.  [QMK Keycodes](https://docs.qmk.fm/keycodes) for a list of all QMK keycodes.
-3.  [Here](https://docs.qmk.fm/feature_layers#example-keycode-to-cycle-through-layers) for layer cycling.
-4.  [Here](https://docs.qmk.fm/cli_commands#qmk-generate-compilation-database) for questions about `compile_commands.json` and fixing red squiggles.
-5.  [SOCD Cleaner](https://getreuer.info/posts/keyboards/socd-cleaner) for implementing SOCD similarly to Wooting keyboards.
-6.  [Pascal Getreuer](https://getreuer.info/posts/keyboards) for other interesting feature implementations.
-7.  [Monkeytype](https://monkeytype.com) for a customizable typing test.
-8.  [QMK_Userspace](https://github.com/qmk/qmk_userspace) to create your own userspace.
+2.  [QMK Firmware](https://github.com/qmk/qmk_firmware) - clone this repo first.
+3.  [QMK Keycodes](https://docs.qmk.fm/keycodes) for a list of all QMK keycodes.
+4.  [Here](https://docs.qmk.fm/feature_layers#example-keycode-to-cycle-through-layers) for layer cycling.
+5.  [Here](https://docs.qmk.fm/cli_commands#qmk-generate-compilation-database) for questions about `compile_commands.json` and fixing red squiggles.
+6.  [SOCD Cleaner](https://getreuer.info/posts/keyboards/socd-cleaner) for implementing SOCD similarly to Wooting keyboards.
+7.  [Pascal Getreuer](https://getreuer.info/posts/keyboards) for other interesting feature implementations.
+8.  [Monkeytype](https://monkeytype.com) for a customizable typing test.
+9.  [QMK_Userspace](https://github.com/qmk/qmk_userspace) to create your own userspace.
 
 ## TODO
 
